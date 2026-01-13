@@ -14,8 +14,8 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
 
 * **Lenguajes:** Python (AsyncIO), Java, JavaScript, TypeScript
 * **Frameworks Backend:** Django, FastAPI, Spring Boot
-* **Bases de Datos & Mensajería:** SQL Server, Redis, Kafka
-* **DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, Git
+* **Bases de Datos** SQL Server, Redis, SQL
+* **DevOps & Cloud:** Docker, GitHub Actions, Git
 * **Monitorización:** Prometheus, Grafana
 * **Frontend:** Vue.js, HTML, CSS
 * **IA & R&D:** OpenAI API, LLMs, RAG, Embeddings
