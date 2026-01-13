@@ -16,7 +16,7 @@
 * [cite_start]**DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, Git[cite: 26].
 * [cite_start]**Monitorización:** Prometheus, Grafana[cite: 28].
 * [cite_start]**Frontend:** Vue.js, HTML, CSS[cite: 27].
-* [cite_start]**IA & R&D:** OpenAI API, LLMs, RAG, Embeddings[cite: 14, 29].
+* [cite_start]**IA & R&D:** OpenAI API, LLMs, RAG, Embeddings[cite: 29, 14].
 
 ---
 
@@ -27,14 +27,14 @@
 
 **Proyectos Destacados:**
 
-1.  [cite_start]**Buzón Conocimiento** [cite: 13]
-    * [cite_start]Desarrollo de una aplicación web para búsqueda semántica de documentos[cite: 14].
+* [cite_start]**Buzón Conocimiento** [cite: 13]
+    * [cite_start]Desarrollo de una aplicación web para búsqueda semántica de documentos mediante embeddings[cite: 14].
     * [cite_start]Diseño del backend en **Django** utilizando poetry y pytest[cite: 15].
-    * [cite_start]Implementación de generación y comparación de **embeddings** con distancia L2 mediante la API de OpenAI[cite: 16].
-    * [cite_start]Configuración de pipelines **CI/CD** y contenedorización con **Docker** para despliegues automatizados[cite: 18].
+    * [cite_start]Implementación de generación y comparación de embeddings con distancia L2 mediante la API de OpenAI[cite: 16].
+    * [cite_start]Configuración de pipelines **CI/CD** (GitHub Actions) y contenedorización con **Docker**[cite: 18].
     * [cite_start]Monitorización del sistema con **Prometheus y Grafana**[cite: 19].
 
-2.  [cite_start]**Chatbot Empresarial** [cite: 33]
+* [cite_start]**Chatbot Empresarial** [cite: 33]
     * [cite_start]Creación de una **API REST con FastAPI** para la gestión de chats y mensajes[cite: 35].
     * [cite_start]Persistencia y optimización de datos mediante **Redis**[cite: 36].
     * [cite_start]Desarrollo del frontend utilizando **Vue.js y TypeScript**[cite: 38].
@@ -56,5 +56,4 @@
 
 ### [cite_start]Contacto [cite: 7]
 * [cite_start]**Email:** almenamvictor@gmail.com [cite: 8]
-* [cite_start]**Teléfono:** (+34) 683 35 68 32 [cite: 9]
 * [cite_start]**LinkedIn:** [linkedin.com/in/victoralmena](https://linkedin.com/in/victoralmena) [cite: 9]
