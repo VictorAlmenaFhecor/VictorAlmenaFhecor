@@ -10,7 +10,7 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
 
 ---
 
-### Stack Técnico
+### Skills
 
 * **Lenguajes:** Python (AsyncIO), Java, JavaScript, TypeScript
 * **Frameworks Backend:** Django, FastAPI, Spring Boot
