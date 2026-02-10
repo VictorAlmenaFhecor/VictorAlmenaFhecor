@@ -17,7 +17,7 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
 * **Bases de Datos** SQL Server, Redis, SQL
 * **DevOps & Cloud:** Docker, GitHub Actions, Git
 * **Monitorización:** Prometheus, Grafana
-* **Frontend:** Vue.js, HTML, CSS
+* **Frontend:** Vue.js, HTML, CSS, React
 * **IA & R&D:** OpenAI API, LLMs, RAG, Embeddings, Vertex AI Search
 
 ---
