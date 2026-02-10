@@ -45,11 +45,11 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
 * **Agente Cálculo de Cortante**
     * Creación de un agente de cálculo de cortante mediante **LangGraph**, nutriéndole la normativa y utilizando fórmulas propias con el uso de nodos y el flujo de LangGraph
     * Desarrollo del frontend con **TypeScript y React** en un proyecto separado para separar responsabilidades
-    
+
 
 ---
 
 ### Contacto
 
 * **Email:** almenamvictor@gmail.com
-* **LinkedIn:** [linkedin.com/in/victoralmena](https://linkedin.com/in/victoralmena)
+* **LinkedIn:** [linkedin.com/in/victoralmena](https://www.linkedin.com/in/victoralmenamartinez/)
