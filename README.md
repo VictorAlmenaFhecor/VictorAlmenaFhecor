@@ -18,7 +18,7 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
 * **DevOps & Cloud:** Docker, GitHub Actions, Git
 * **Monitorización:** Prometheus, Grafana
 * **Frontend:** Vue.js, HTML, CSS
-* **IA & R&D:** OpenAI API, LLMs, RAG, Embeddings
+* **IA & R&D:** OpenAI API, LLMs, RAG, Embeddings, Vertex AI Search
 
 ---
 
@@ -32,7 +32,7 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
 * **Buzón Conocimiento**
     * Desarrollo de una aplicación web para búsqueda semántica de documentos mediante embeddings
     * Diseño del backend en **Django** utilizando poetry y pytest
-    * Implementación de generación y comparación de embeddings con distancia L2 mediante la API de OpenAI
+    * Implementación con **Vertex AI Search** y subida de documentos de la base de datos en JSONL, generación de embeddings, indexación y uso de su motor de búsqueda.
     * Configuración de pipelines **CI/CD** (GitHub Actions) y contenedorización con **Docker**
     * Monitorización del sistema con **Prometheus y Grafana**
 
