@@ -17,8 +17,8 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
 * **Bases de Datos:** SQL Server, Redis, SQL
 * **DevOps & Cloud:** Docker, GitHub Actions, Git
 * **Monitorización:** Prometheus, Grafana
-* **Frontend:** Vue.js, HTML, CSS
-* **IA & R&D:** OpenAI API, LLMs, RAG, Embeddings, Vertex AI Search, LangGraph
+* **Frontend:** Vue.js, HTML, CSS, React
+* **IA & R&D:** OpenAI API, LLMs, RAG, Embeddings, Vertex AI Search
 
 ---
 
@@ -43,7 +43,7 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
     * Automatización de despliegues mediante pipelines de **GitHub Actions**
 
 * **Agente Cálculo de Cortante**
-    * Creación de un agente de cálculo de cortante mediante **LangGraph**, nutriéndolo con la normativa y utilizando fórmulas propias con el uso de nodos y el flujo de LangGraph
+    * Creación de un agente de cálculo de cortante con **LangGraph**, nutriéndole la normativa y utilizando fórmulas propias con el uso de nodos y el flujo de LangGraph
     * Desarrollo del frontend con **TypeScript y React** en un proyecto separado para separar responsabilidades
 
 ---
@@ -51,4 +51,4 @@ Tengo experiencia práctica en **DevOps**, gestionando contenedores y volúmenes
 ### Contacto
 
 * **Email:** almenamvictor@gmail.com
-* **LinkedIn:** [linkedin.com/in/victoralmenamartinez](https://www.linkedin.com/in/victoralmenamartinez/)
+* **LinkedIn:** [linkedin.com/in/victoralmena](https://www.linkedin.com/in/victoralmenamartinez/)
